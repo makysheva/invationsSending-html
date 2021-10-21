@@ -207,6 +207,7 @@ body {
 .users__right {
   position: relative;
   cursor: pointer;
+  margin-right: 10px;
 }
 
 /* Toggle button */
